@@ -1,0 +1,12 @@
+C:\Users\Jabir\source\repos\idstorage\idstorage\bin\Debug\idstorage.exe.config
+C:\Users\Jabir\source\repos\idstorage\idstorage\bin\Debug\idstorage.exe
+C:\Users\Jabir\source\repos\idstorage\idstorage\bin\Debug\idstorage.pdb
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.csproj.AssemblyReference.cache
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.Form1.resources
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.Menuform.resources
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.Properties.Resources.resources
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.csproj.GenerateResource.cache
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.csproj.CoreCompileInputs.cache
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.exe
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.pdb
+C:\Users\Jabir\source\repos\idstorage\idstorage\obj\Debug\idstorage.signupform.resources
